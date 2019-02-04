@@ -16,15 +16,15 @@ excerpt: "Home page for the MBL STAMPS 2019 course."
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
 [Tracy Teal](http://idyll.org/~tracyt/) ([The Carpentries](https://carpentries.org/))  
 
-**Financial Information:** 
-Tuition: $2,150.00. Room & Board: $750.00. There is currently no MBL-funded financial assistance available for participants in this course.  
+**Financial Information:**  
+Please see [the application page](https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps) for financial information.  
 
 #### What is STAMPS?
 The STAMPS course (**S**trategies and **T**echniques for **A**nalyzing **M**icrobial **C**ommunity **P**opulation **S**tructures) takes places at the [Marine Biological Laboratory](https://www.mbl.edu/) in Woods Holes, MA, USA each summer.  
 
 Current sequencing technologies enable highly comprehensive investigaitons of microbial communities. But the size of these datasets pose enormous computational challenges, and our ability to generate them has largely been outpacing our collective ability to manipulate and utilize them. The STAMPS course promotes dialogue and the exchange of ideas between experts in environmental and microbiome analysis, and offers interdisciplinary bioinformatics and statistical training to practitioners of molecular microbial ecology and genomics.  
 
-The course is designed for established investigators, postdoctoral fellows, and advanced graduate students from diverse biological fields. Topics to be covered include but are not limited to: acquisition and organization of next-generation sequence data; principles of quality control and data management; processing and analyzing marker-gene/amplicon data (such as 16S sequencing); assembly and annotation of shotgun metagenomic data; statistical models for estimating microbial diversity; and microbial community comparison methodology. The course additionally includes an introduction to the Unix command-line and R statistical environments, so prior experience with these is **not** a requirement for attendees. Guided by developers of tools such as BreakAway, DivNet, GToTree, PhyloSeq, SourMash, and QIIME2, participants of the STAMPS course will have the opportunity to try various analysis techniques and discuss their own data and analyses with faculty.
+The course is designed for established investigators, postdoctoral fellows, and advanced graduate students from diverse biological fields. Topics to be covered include but are not limited to: acquisition and organization of next-generation sequence data; principles of quality control and data management; processing and analyzing marker-gene/amplicon data (such as 16S sequencing); assembly and annotation of shotgun metagenomic data; statistical models for estimating microbial diversity; and microbial community comparison methodology. The course additionally covers the basics for working in the Unix command-line and R statistical environments, but some prior experience with these is strongly recommended. Guided by developers of tools such as BreakAway, DivNet, GToTree, PhyloSeq, SourMash, and QIIME2, participants of the STAMPS course will have the opportunity to try various analysis techniques and discuss their own data and analyses with faculty.
 
 ---
 
