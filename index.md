@@ -20,7 +20,7 @@ excerpt: "Home page for the MBL STAMPS 2019 course."
 Please see [the application page](https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps) for financial information.  
 
 #### What is STAMPS?
-The STAMPS course (**S**trategies and **T**echniques for **A**nalyzing **M**icrobial **C**ommunity **P**opulation **S**tructures) takes places at the [Marine Biological Laboratory](https://www.mbl.edu/) in Woods Holes, MA, USA each summer.  
+The STAMPS course (**S**trategies and **T**echniques for **A**nalyzing **M**icrobial **C**ommunity **P**opulation **S**tructures) takes places at the [Marine Biological Laboratory](https://www.mbl.edu/) in Woods Hole, MA, USA each summer.  
 
 Current sequencing technologies enable highly comprehensive investigaitons of microbial communities. But the size of these datasets pose enormous computational challenges, and our ability to generate them has largely been outpacing our collective ability to manipulate and utilize them. The STAMPS course promotes dialogue and the exchange of ideas between experts in environmental and microbiome analysis, and offers interdisciplinary bioinformatics and statistical training to practitioners of molecular microbial ecology and genomics.  
 
