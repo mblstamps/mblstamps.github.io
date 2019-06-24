@@ -29,19 +29,19 @@ The course is designed for established investigators, postdoctoral fellows, and 
 ---
 
 #### 2018 Course Faculty
+Mihai Pop, University of Maryland  
+Tracy Teal, The Carpentries  
 Titus Brown, University of California at Davis  
 Susan Holmes, Stanford University  
 Curtis Huttenhower, Harvard University  
 Rob Knight, University of California, San Diego  
+Mike Lee, NASA Ames Research Center
 David Mark Welch, Marine Biological Laboratory  
 Christian Mueller, Simons Foundation  
-Mihai Pop, University of Maryland  
 Mitch Sogin, Marine Biological Laboratory  
-Tracy Teal, The Carpentries  
 Todd Treangen, University of Maryland  
 Tandy Warnow, University of Illinois at Urbana-Champaign  
 Amy Willis, University of Washington  
 
-
-
 Feel free to check out the schedule and lectures from last year located **[here](https://github.com/mblstamps/stamps2018/wiki#schedule)**!  
+
