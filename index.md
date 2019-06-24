@@ -35,7 +35,7 @@ Titus Brown, University of California at Davis
 Susan Holmes, Stanford University  
 Curtis Huttenhower, Harvard University  
 Rob Knight, University of California, San Diego  
-Mike Lee, NASA Ames Research Center
+Mike Lee, NASA Ames Research Center  
 David Mark Welch, Marine Biological Laboratory  
 Christian Mueller, Simons Foundation  
 Mitch Sogin, Marine Biological Laboratory  
