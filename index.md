@@ -1,20 +1,20 @@
 ---
-title: Welcome to MBL STAMPS 2019!
+title: Welcome to MBL STAMPS 2020!
 feature_image: "/images/stamps2018.jpg"
-excerpt: "Home page for the MBL STAMPS 2019 course."
+excerpt: "Home page for the MBL STAMPS 2020 course."
 ---
 
 <a href="https://www.mbl.edu/"><img src="/images/MBL-logo.jpg" style="float: right; height: 150px; padding-right: 90px; padding-top: 25px; margin: 20px"></a>
 
 #### Course Information
-**Course Dates:** 22-July - 1-August-2019
+**Course Dates:** 22-July - 1-August-2020
 
-**Deadline for applications:** 19-April-2019  
+**Deadline for applications:** 13-April-2020  
 {% include button.html text="Apply Here" link="https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps" color="#006b6f" %}  
 
 **Course Directors:**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
-Tracy Teal ([The Carpentries](https://carpentries.org/))  
+Tracy Teal (formerly of [The Carpentries](https://carpentries.org/) fame)  
 
 **Financial Information:**  
 Please see [the application page](https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps) for financial information.  
@@ -43,5 +43,5 @@ Tracy Teal, The Carpentries
 [Tandy Warnow](http://tandy.cs.illinois.edu/), University of Illinois at Urbana-Champaign  
 [Amy Willis](http://statisticaldiversitylab.com/), University of Washington  
 
-Feel free to check out the schedule and lectures from last year located **[here](https://github.com/mblstamps/stamps2018/wiki#schedule)**!  
+Feel free to check out the schedule and lectures from last year located **[here](https://github.com/mblstamps/stamps2019/wiki#schedule)**!  
 
