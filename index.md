@@ -14,7 +14,7 @@ excerpt: "Home page for the MBL STAMPS 2020 course."
 
 **Course Directors:**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
-Tracy Teal (formerly of [The Carpentries](https://carpentries.org/) fame)  
+Tracy Teal ([Dryad](https://datadryad.org/))  
 
 **Financial Information:**  
 Please see [the application page](https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps) for financial information.  
@@ -30,7 +30,7 @@ The course is designed for established investigators, postdoctoral fellows, and 
 
 #### 2019 Course Faculty
 [Mihai Pop](http://mpop.umiacs.io/), University of Maryland  
-Tracy Teal, The Carpentries  
+Tracy Teal, Dryad  
 [Yana Bromberg](https://bromberglab.org/), Rutgers University  
 [Titus Brown](http://ivory.idyll.org/lab/), University of California, Davis  
 [Ben Callahan](https://callahanlab.cvm.ncsu.edu/), North Carolina State University  
