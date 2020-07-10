@@ -1,16 +1,14 @@
 ---
-title: Welcome to MBL STAMPS 2020!
+title: Welcome to MBL STAMPS!
 feature_image: "/images/stamps2018.jpg"
-excerpt: "Home page for the MBL STAMPS 2020 course."
+excerpt: "Home page for the MBL STAMPS course."
 ---
 
 <a href="https://www.mbl.edu/"><img src="/images/MBL-logo.jpg" style="float: right; height: 150px; padding-right: 90px; padding-top: 25px; margin: 20px"></a>
 
 #### Course Information
-**Course Dates:** 22-July - 1-August-2020
-
-**Deadline for applications:** 13-April-2020  
-{% include button.html text="Apply Here" link="https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps" color="#006b6f" %}  
+No course in 2020  
+**2021 Course Dates:** July 21 – July 31, 2021
 
 **Course Directors:**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
