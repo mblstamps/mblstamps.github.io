@@ -15,7 +15,7 @@ No course in 2020
 Tracy Teal ([Dryad](https://datadryad.org/))  
 
 **Financial Information:**  
-Please see [the application page](https://ws2.mbl.edu/studentapp/studentapp.asp?courseid=stamps) for financial information.  
+Please see the [MBL STAMPS course page](https://www.mbl.edu/education/courses/stamps/) for financial information.  
 
 #### What is STAMPS?
 The STAMPS course (**S**trategies and **T**echniques for **A**nalyzing **M**icrobial **C**ommunity **P**opulation **S**tructures) takes places at the [Marine Biological Laboratory](https://www.mbl.edu/) in Woods Hole, MA, USA each summer.  
