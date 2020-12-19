@@ -7,8 +7,9 @@ excerpt: "Home page for the MBL STAMPS course."
 <a href="https://www.mbl.edu/"><img src="/images/MBL-logo.jpg" style="float: right; height: 150px; padding-right: 90px; padding-top: 25px; margin: 20px"></a>
 
 #### Course Information
-No course in 2020  
-**2021 Course Dates:** July 21 – July 31, 2021
+**2021:** No in person course for 2021  
+**2022:** Keep an eye out for dates!
+
 
 **Course Directors:**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
