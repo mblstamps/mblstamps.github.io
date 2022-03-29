@@ -6,17 +6,17 @@ excerpt: "Home page for the MBL STAMPS course."
 
 <a href="https://www.mbl.edu/"><img src="/images/MBL-logo.jpg" style="float: right; height: 150px; padding-right: 90px; padding-top: 25px; margin: 20px"></a>
 
-#### Course Information
-**2021:** No in person course for 2021  
-**2022:** Keep an eye out for dates!
+#### Course Information  
+**2022 dates:** 21 July, 2022 – 30 July, 2022  
 
 
-**Course Directors:**  
+**Course Directors**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
 Tracy Teal ([Dryad](https://datadryad.org/))  
 
-**Financial Information:**  
-Please see the [MBL STAMPS course page](https://www.mbl.edu/education/courses/stamps/) for financial information.  
+**Financial and Application Information**  
+Please see the [MBL STAMPS course page](https://www.mbl.edu/education/courses/stamps/) for financial and application information. Application due date is 14 April, 2022.
+
 
 #### What is STAMPS?
 The STAMPS course (**S**trategies and **T**echniques for **A**nalyzing **M**icrobial **C**ommunity **P**opulation **S**tructures) takes places at the [Marine Biological Laboratory](https://www.mbl.edu/) in Woods Hole, MA, USA each summer.  
@@ -42,5 +42,5 @@ Tracy Teal, Dryad
 [Tandy Warnow](http://tandy.cs.illinois.edu/), University of Illinois at Urbana-Champaign  
 [Amy Willis](http://statisticaldiversitylab.com/), University of Washington  
 
-Feel free to check out the schedule and lectures from last year located **[here](https://github.com/mblstamps/stamps2019/wiki#schedule)**!  
+Feel free to check out the schedule and lectures from 2019 located **[here](https://github.com/mblstamps/stamps2019/wiki#schedule)**!  
 
