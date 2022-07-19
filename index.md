@@ -18,7 +18,7 @@ Tracy Teal ([RStudio](https://rstudio.com/))
 Please see the [MBL STAMPS course page](https://www.mbl.edu/education/courses/stamps/) for course logistics information. Applications are closed for 2022.
 
 **2022 Course Schedule and Materials**
-Our course schedule and materials for the course are available on the [2022 STAMPS Course page](https://github.com/mblstamps/stamps2022/wiki).
+Our course schedule and materials are available on the [2022 STAMPS page](https://github.com/mblstamps/stamps2022/wiki).
 
 
 #### What is STAMPS?
