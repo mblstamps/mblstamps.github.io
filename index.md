@@ -12,10 +12,13 @@ excerpt: "Home page for the MBL STAMPS course."
 
 **Course Directors**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
-Tracy Teal ([Dryad](https://datadryad.org/))  
+Tracy Teal ([RStudio](https://rstudio.com/))  
 
 **Financial and Application Information**  
-Please see the [MBL STAMPS course page](https://www.mbl.edu/education/courses/stamps/) for financial and application information. Application due date is 14 April, 2022.
+Please see the [MBL STAMPS course page](https://www.mbl.edu/education/courses/stamps/) for course logistics information. Applications are closed for 2022.
+
+**2022 Course Schedule and Materials**
+Our course schedule and materials for the course are available on the [2022 STAMPS Course page](https://github.com/mblstamps/stamps2022/wiki).
 
 
 #### What is STAMPS?
@@ -27,20 +30,15 @@ The course is designed for established investigators, postdoctoral fellows, and 
 
 ---
 
-#### 2019 Course Faculty
+#### 2022 Course Faculty
 [Mihai Pop](http://mpop.umiacs.io/), University of Maryland  
-Tracy Teal, Dryad  
-[Yana Bromberg](https://bromberglab.org/), Rutgers University  
+Tracy Teal, RStudio  
 [Titus Brown](http://ivory.idyll.org/lab/), University of California, Davis  
 [Ben Callahan](https://callahanlab.cvm.ncsu.edu/), North Carolina State University  
-[Susan Holmes](http://statweb.stanford.edu/~susan/susan_person.html), Stanford University  
-[Adina Howe](www.germslab.org), Iowa State University  
-[Rob Knight](https://knightlab.ucsd.edu/), University of California, San Diego  
+[Curtis Huttenhower](https://huttenhower.sph.harvard.edu/), Harvard University
 [Mike Lee](https://astrobiomike.github.io/research/), NASA Ames Research Center  
-[Christian Mueller](https://www.simonsfoundation.org/team/christian-muller/), Simons Foundation  
 [Todd Treangen](https://csweb.rice.edu/todd-treangen), University of Maryland  
-[Tandy Warnow](http://tandy.cs.illinois.edu/), University of Illinois at Urbana-Champaign  
 [Amy Willis](http://statisticaldiversitylab.com/), University of Washington  
 
-Feel free to check out the schedule and lectures from 2019 located **[here](https://github.com/mblstamps/stamps2019/wiki#schedule)**!  
+
 
