@@ -9,6 +9,8 @@ excerpt: "Home page for the MBL STAMPS course."
 #### Course Information  
 **2022 dates:** 21 July, 2022 – 30 July, 2022  
 
+**Course Schedule**
+[2022 STAMPS page](https://github.com/mblstamps/stamps2022/wiki)
 
 **Course Directors**  
 [Mihai Pop](http://www.cbcb.umd.edu/~mpop/) ([University of Maryland](https://www.umd.edu/))  
