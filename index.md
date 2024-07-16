@@ -41,10 +41,10 @@ The course is designed for established investigators, postdoctoral fellows, and 
 
 #### 2024 Course TAs
 
-[Shirley Mathur](https://www.linkedin.com/in/shirley-mathur-a1870a183/)  
-[Bry Moore](https://www.linkedin.com/in/bryshal-moore-b3712a20b/)
-[Mike Nute](https://github.com/MGNute)  
-[Jorden Rabasco](https://www.linkedin.com/in/jorden-rabasco-4a82bbab/)
+[Shirley Mathur](https://www.linkedin.com/in/shirley-mathur-a1870a183/)    
+[Bry Moore](https://www.linkedin.com/in/bryshal-moore-b3712a20b/)  
+[Mike Nute](https://github.com/MGNute)   
+[Jorden Rabasco](https://www.linkedin.com/in/jorden-rabasco-4a82bbab/)  
 [Sarah Teichman](https://github.com/svteichman)  
-[Maria Valdez](https://www.biostat.washington.edu/people/maria-valdez-cabrera)
-[Gina Vasquez](https://www.linkedin.com/in/gina-vazquez/)
+[Maria Valdez](https://www.biostat.washington.edu/people/maria-valdez-cabrera)  
+[Gina Vasquez](https://www.linkedin.com/in/gina-vazquez/)  
